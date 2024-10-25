@@ -1,3 +1,7 @@
+<div align="center">
+  <a target="_blank"><img src="1317022800.gif" alt="Telegram" width="auto" height="110" /></a>
+</div>
+
 # Hello! 👋
 
 I am a developer with experience in various programming languages and technologies. My technology stack includes:
