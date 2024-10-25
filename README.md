@@ -26,7 +26,7 @@ I am a developer with experience in various programming languages and technologi
     
 ## 🌟 About me
 
-I am 20 years old, I am a student at the I. I. Vorovich Institute of Mechanics, Mathematics and Computer Science (Southern Federal University), I live and study in Rostov-on-Don, Russian Federation
+I am 20 years old, i am a student at the I. I. Vorovich Institute of Mechanics, Mathematics and Computer Science (Southern Federal University), i live and study in Rostov-on-Don, Russian Federation
 ## 📫 Contact me
 
 <a href="https://t.me/tommyhellatriggery" target="_blank"><img src="telegram-svgrepo-com.svg" alt="Telegram" width="70" height="70" /></a> &nbsp; &nbsp; 
