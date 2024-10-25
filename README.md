@@ -29,7 +29,7 @@ I am 20 years old, I am a student at the I. I. Vorovich Institute of Mechanics, 
     <img src="telegram-svgrepo-com.svg" alt="Telegram" width="70" height="70">
 </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://vk.com/just_hug_mee">
-    <img src="vk-svgrepo-com.svg" alt="Vkontakte" width="70" height="70">
+    <img src="vk-svgrepo-com (1).svg" alt="Vkontakte" width="70" height="70">
 </a>
 
 - [Email 1](mailto:egorkulishov69@gmail.com)
