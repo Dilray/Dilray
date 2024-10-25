@@ -26,10 +26,10 @@ I am 20 years old, I am a student at the I. I. Vorovich Institute of Mechanics, 
 ## 📫 Contact me
 
 <a href="https://t.me/tommyhellatriggery">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="50" height="50">
+    <img src="telegram-svgrepo-com.svg" alt="Telegram" width="70" height="70">
 </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://vk.com/just_hug_mee">
-    <img src="https://fashion-stickers.ru/38066-thickbox_default/znak-v-kontakte.jpg" alt="Vkontakte" width="70" height="70">
+    <img src="vk-svgrepo-com.svg" alt="Vkontakte" width="70" height="70">
 </a>
 
 - [Email 1](mailto:egorkulishov69@gmail.com)
