@@ -27,14 +27,14 @@ I am 20 years old, I am a student at the I. I. Vorovich Institute of Mechanics, 
 
 <a href="https://t.me/tommyhellatriggery">
     <img src="telegram-svgrepo-com.svg" alt="Telegram" width="70" height="70">
-</a> &nbsp; &nbsp;
+</a> &nbsp; &nbsp; &nbsp; 
 <a href="https://vk.com/just_hug_mee">
     <img src="vk-svgrepo-com (1).svg" alt="Vkontakte" width="70" height="70">
-</a> &nbsp; &nbsp;
-<a mailto="egorkulishov69@gmail.com">
+</a> &nbsp; &nbsp; &nbsp; 
+<a href="mailto:egorkulishov69@gmail.com">
     <img src="gmail-svgrepo-com.svg" alt="Gmail" width="70" height="70">
-</a> &nbsp; &nbsp;
-<a mailto="ekuishov@sfedu.ru">
+</a> &nbsp; &nbsp; &nbsp; 
+<a href="mailto:ekuishov@sfedu.ru">
     <img src="institution-svgrepo-com.svg" alt="SFEDU" width="70" height="70">
 </a>
 
