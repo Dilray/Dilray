@@ -36,7 +36,7 @@ I am 20 years old, I am a student at the I. I. Vorovich Institute of Mechanics, 
 </a> &nbsp; &nbsp; &nbsp; 
 <a href="mailto:ekuishov@sfedu.ru">
     <img src="institution-svgrepo-com.svg" alt="SFEDU" width="70" height="70">
-</a>
+</a> &nbsp; &nbsp; &nbsp; 
 
 ---
 
