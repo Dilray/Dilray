@@ -35,8 +35,8 @@ I am 20 years old, i am a student at the I. I. Vorovich Institute of Mechanics, 
 <a href="mailto:ekuishov@sfedu.ru" terget="_blank"><img src="institution-svgrepo-com.svg" alt="SFEDU" width="70" height="70" /></a> &nbsp; &nbsp; 
 <a href="https://steamcommunity.com/profiles/76561198358883719/" target="_blank"><img src="steam-svgrepo-com.svg" alt="Steam" width="70" height="70" /></a> &nbsp; &nbsp; 
 <a href="https://www.instagram.com/bratzz_boyy/profilecard/?igsh=NnZoMjBjbnBtdm45" target="_blank"><img src="instagram-1-svgrepo-com.svg" alt="Instagram" width="70" height="70" /></a>
-
 </div>
+
 ---
 
 Thanks for visiting my profile! 😊
