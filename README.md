@@ -19,6 +19,7 @@ I am a developer with experience in various programming languages and technologi
   - Flutter
   - ASP.NET
   - Django
+  - Ruby on Rails
 
 - **Also**:
   - Graph WPF
