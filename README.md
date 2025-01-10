@@ -45,4 +45,4 @@ I am 20 years old, i am a student at the I. I. Vorovich Institute of Mechanics, 
 
 ---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile!
