@@ -31,7 +31,7 @@ I am 20 years old, i am a student at the I. I. Vorovich Institute of Mechanics, 
 ## 📫 Contact me
 
 <div align="center">
-<a href="https://t.me/tommyhellatriggery" target="_blank"><img src="telegram-svgrepo-com.svg" alt="Telegram" width="70" height="70" /></a> &nbsp; &nbsp; 
+<a href="https://t.me/egorkulishovv" target="_blank"><img src="telegram-svgrepo-com.svg" alt="Telegram" width="70" height="70" /></a> &nbsp; &nbsp; 
 <a href="https://vk.com/just_hug_mee" target="_blank"><img src="vk-svgrepo-com (1).svg" alt="Vkontakte" width="70" height="70" /></a> &nbsp; &nbsp; 
 <a href="mailto:egorkulishov69@gmail.com" terget="_blank"><img src="gmail-svgrepo-com.svg" alt="Gmail" width="70" height="70" /></a> &nbsp; &nbsp; 
 <a href="mailto:ekuishov@sfedu.ru" terget="_blank"><img src="institution-svgrepo-com.svg" alt="SFEDU" width="70" height="70" /></a> &nbsp; &nbsp; 
